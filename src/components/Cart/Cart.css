@@ -1,0 +1,20 @@
+.cart-summury-container{
+    position:sticky;
+    top:0;
+}
+
+.green{
+    background-color: green;
+}
+.red{
+    background-color: red;
+}
+.pink{
+    background-color: pink;
+}
+.gray{
+    background-color: gray;
+}
+.cyan{
+    background-color: cyan;
+}
